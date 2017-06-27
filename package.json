@@ -1,9 +1,9 @@
 {
-  "name": "modusecho",
+  "name": "savesocialupi",
   "version": "0.0.2",
-  "description": "Modus Create Demo Cordova Plugin",
+  "description": "Upi demo",
   "cordova": {
-    "id": "com-moduscreate1-plugins-echo",
+    "id": "in-savesocial-upi",
     "platforms": [
       "android",
       "ios"
@@ -13,16 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/arunmdavid/cordova-plugin-example.git"
   },
-  "keywords": [
-    "cordova",
-    "demo",
-    "modus",
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios",
-    "cordova-browser"
-  ],
-  "author": "Modus Create",
+  "author": "Arun David",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/arunmdavid/cordova-plugin-example/issues"
