@@ -27,13 +27,4 @@
 		</config-file>
         <source-file src="src/android/com/savesocial/plugin/Upi.java" target-dir="src/com/savesocial/plugin" />
 	</platform>
-    <platform name="ios">
-        <config-file target="config.xml" parent="/*">
-            <feature name="Upi">
-                <param name="ios-package" value="Upi" />
-            </feature>
-        </config-file>
-        <header-file src="src/ios/Upi.h" />
-        <source-file src="src/ios/Upi.m" />
-    </platform>
 </plugin>
