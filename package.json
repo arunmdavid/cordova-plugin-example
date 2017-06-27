@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "Modus Create Demo Cordova Plugin",
   "cordova": {
-    "id": "com-moduscreate-plugins-echo",
+    "id": "com-moduscreate1-plugins-echo",
     "platforms": [
       "android",
       "ios"
