@@ -5,8 +5,7 @@
   "cordova": {
     "id": "in-savesocial-upi",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "repository": {
